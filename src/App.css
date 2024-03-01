@@ -1,0 +1,22 @@
+.App h1, h2{
+  text-align: center;
+}
+
+.App{
+    background: url('https://static.vecteezy.com/system/resources/previews/004/806/928/non_2x/silhouettes-of-pads-of-the-cat-paws-animal-paw-prints-on-ground-simple-black-and-white-isolated-on-white-background-vector.jpg') ;
+    background-size: cover;
+    background-position: center;   
+}
+
+.container{
+  text-align: center;
+  display: block;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  display: flex; 
+  flex-wrap: wrap; /* coloca abajo*/
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

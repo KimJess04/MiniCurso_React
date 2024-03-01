@@ -1,0 +1,23 @@
+.AnimalView{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+    background-image: "https://img.freepik.com/vector-gratis/rastro-huellas-traves-pantalla_78370-866.jpg?size=626&ext=jpg&ga=GA1.1.117944100.1709164800&semt=ais";
+
+}
+
+.AnimalView{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url('https://static.vecteezy.com/system/resources/previews/004/806/928/non_2x/silhouettes-of-pads-of-the-cat-paws-animal-paw-prints-on-ground-simple-black-and-white-isolated-on-white-background-vector.jpg') ;
+    background-size: cover;
+    background-position: center;   
+}
+
+.AnimalView img{
+    display: block;
+    max-width: 100%;
+    border-radius: 100px;
+    margin-left: 100px;
+    /*padding-right: 3px; */
+}
+

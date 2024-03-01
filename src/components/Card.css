@@ -1,0 +1,11 @@
+/* ESTILOS DE LA CARD */
+
+.Card{
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #3333;
+    background-color: rgb(252, 251, 185);
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #bd68b1;
+}
